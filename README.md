@@ -4,7 +4,7 @@
 
 
 
-<h1 align='center'>CV - Thiago Coelho da Fonseca</h1>
+<h1 align='center'>CV - Thiago Coelho da Fonseca.pdf</h1>
 
 
 Clique [aqui](https://thiagocdfonseca.github.io/thiagocdfonseca.github.io/) para acessar meu currículo.
